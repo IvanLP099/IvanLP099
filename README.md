@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,html,js,css,bootstrap,flask,php,py,github,latex,vscode,unity,androidstudio,anaconda,arduino" />
   </a>
 </p>
 ### ⚙️ &nbsp;GitHub Analytics
