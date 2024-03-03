@@ -34,6 +34,11 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=netbeans&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=PHP)&nbsp;
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -43,11 +48,6 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
