@@ -6,13 +6,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Systems Engineer at the University César Vallejo.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✍️ &nbsp;In my free time, I watch movie recaps, take care of my pets, listen to music of any genre.\
+💬 &nbsp;Please feel free to contact me for I.T. projects, or just to have an interesting discussion.\
+✉️ &nbsp;You can shoot me an email at ivanlizandropampa@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my CV for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,js,css,bootstrap,flask,php,py,github,latex,vscode,unity,androidstudio,anaconda,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,html,js,css,bootstrap,flask,php,py,mysql,github,latex,vscode,unity,androidstudio,anaconda,arduino" />
   </a>
 </p>
 ### ⚙️ &nbsp;GitHub Analytics
