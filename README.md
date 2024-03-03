@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivan-lizandro-pampa-pampa-7406291a8/"><img src="https://img.shields.io/badge/-Ivan%Lizandro%Pampa%Pampa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ivan-lizandro-pampa-pampa-7406291a8/"><img src="https://img.shields.io/badge/-ivan%Lizandro%Pampa%Pampa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ivanlizandropampa@gmail.com"><img src="https://img.shields.io/badge/-ivanlizandropampa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
